@@ -37,12 +37,14 @@ Each CIS Benchmark undergoes two phases of consensus review. The first phase occ
 
 The following configuration profiles are defined by this Benchmark:
 - **Level 1 - Domain Controller**
+    
     Items in this profile apply to Domain Controllers and intend to:
     - be practical and prudent;
     - provide a clear security benefit; and
     - not inhibit the utility of the technology beyond acceptable means.
 
 - **Level 1 - Member Server**
+    
     Items in this profile apply to Member Servers and intend to:
     - be practical and prudent;
     - provide a clear security benefit; and
@@ -61,21 +63,25 @@ The following configuration profiles are defined by this Benchmark:
     - Web Server
 
 - **Level 2 - Domain Controller**
+    
     This profile extends the "Level 1 - Domain Controller" profile. Items in this profile exhibit one or more of the following characteristics:
     - are intended for environments or use cases where security is paramount
     - acts as defense in depth measure
     - may negatively inhibit the utility or performance of the technology
 
 - **Level 2 - Member Server**
+    
     This profile extends the "Level 1 - Member Server" profile. Items in this profile exhibit one or more of the following characteristics:
     - are intended for environments or use cases where security is paramount
     - acts as defense in depth measure
     - may negatively inhibit the utility or performance of the technology
 
 - **Next Generation Windows Security - Domain Controller**
+
 This profile contains advanced Windows security features that have specific configuration dependencies, and may not be compatible with all systems. It therefore requires special attention to detail and testing before implementation. If your environment supports these features, they are highly recommended as they have tangible security benefits. This profile is intended to be an optional "add-on" to the Level 1 or Level 2 profiles.
 
 - **Next Generation Windows Security - Member Server**
+
 This profile contains advanced Windows security features that have specific configuration dependencies, and may not be compatible with all systems. It therefore requires special attention to detail and testing before implementation. If your environment supports these features, they are highly recommended as they have tangible security benefits. This profile is intended to be an optional "add-on" to the Level 1 or Level 2 profiles.
 
 ## Recommendations
