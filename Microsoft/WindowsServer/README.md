@@ -14,7 +14,7 @@ Collection of scripts for automating server deployment, configuration, patch man
 
 ### Windows Server 2022
 
-Collection of scripts for automating server deployment, configuration, patch management, device hardening, and routine maintenance tasks specific to Windows Server 2022 edition. ([Go](Microsoft/WindowsServer/2022))
+Collection of scripts for automating server deployment, configuration, patch management, device hardening, and routine maintenance tasks specific to Windows Server 2022 edition. ([Go](2022))
 
 #### Windows Server 2022 General
 
