@@ -13,7 +13,25 @@ Scripts for server device hardening of Windows Server 2022-based systems.
     - [Profile Definitions](#profile-definitions)
     - [Recommendations](#recommendations)
         - [1 Account Policies](#1-account-policies)
-            - [1.1 Password Policy](#1.1-password-policy)
+            - [1.1 Password Policy](#11-password-policy)
+        - [2 Local Policies]()
+        - [3 Event Log]()
+        - [4 Restricted Groups]()
+        - [5 System Services]()
+        - [6 Registry]()
+        - [7 File System]()
+        - [8 Wired Network (IEEE 802.3) Policies]()
+        - [9 Windows Defender Firewall with Advanced Security]()
+        - [10 Network List Manager Policies]()
+        - [11 Wireless Network (IEEE 802.11) Policies]()
+        - [12 Public Key Policies]()
+        - [13 Software Restriction Policies]()
+        - [14 Network Access Protection NAP Client Configuration]()
+        - [15 Application Control Policies]()
+        - [16 IP Security Policies]()
+        - [17 Advanced Audit Policy Configuration]()
+        - [18 Administrative Templates (Computer)]()
+        - [19 Administrative Templates (User)]()
 
 # CIS Microsoft Windows Server 2022 Benchmark v2.0.0
 
@@ -93,3 +111,75 @@ This section contains recommendations for account policies.
 #### 1.1 Password Policy
 
 This section contains recommendations for password policy.
+
+### 2 Local Policies
+
+
+
+### 3 Event Log
+
+
+
+### 4 Restricted Groups
+
+
+
+### 5 System Services
+
+
+
+### 6 Registry
+
+
+
+### 7 File System
+
+
+
+### 8 Wired Network (IEEE 802.3) Policies
+
+
+
+### 9 Windows Defender Firewall with Advanced Security
+
+
+
+### 10 Network List Manager Policies
+
+
+
+### 11 Wireless Network (IEEE 802.11) Policies
+
+
+
+### 12 Public Key Policies
+
+
+
+### 13 Software Restriction Policies
+
+
+
+### 14 Network Access Protection NAP Client Configuration
+
+
+
+### 15 Application Control Policies
+
+
+
+### 16 IP Security Policies
+
+
+
+### 17 Advanced Audit Policy Configuration
+
+
+
+### 18 Administrative Templates (Computer)
+
+
+
+### 19 Administrative Templates (User)
+
+
